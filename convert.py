@@ -127,5 +127,5 @@ if st.button("🔄 Convert"):
     #display result
     st.markdown(f"<div class='result-box'>{values}{from_unit}={result:.4f} {to_unit}</div>",unsafe_allow_html=True)
 
-    st.markdown(f"<div class='footer'>Created by Amna Adnan </div>",unsafe_allow_html=True)
+    st.markdown(f"<div class='footer'>Created by Amna Sheikh </div>",unsafe_allow_html=True)
 
