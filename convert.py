@@ -55,7 +55,7 @@ h1 {
 
 #titel and description
 st.markdown("<h1>Unit Convertor</h1>", unsafe_allow_html=True)
-st.write("Esily Conver Between different units of lenght, weight and temprature.")
+st.write("Easily Conver Between different units of lenght, weight and temprature.")
 
 #sidebar menu
 conversion_type = st.sidebar.selectbox("Choose Conversion Type",["Lenght","Weight","Temprature"])
